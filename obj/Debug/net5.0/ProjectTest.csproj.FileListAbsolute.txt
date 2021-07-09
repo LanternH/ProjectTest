@@ -1,0 +1,16 @@
+/home/neepe/Repositories/CsProjectos/ProjectTest/bin/Debug/net5.0/ProjectTest
+/home/neepe/Repositories/CsProjectos/ProjectTest/bin/Debug/net5.0/ProjectTest.deps.json
+/home/neepe/Repositories/CsProjectos/ProjectTest/bin/Debug/net5.0/ProjectTest.runtimeconfig.json
+/home/neepe/Repositories/CsProjectos/ProjectTest/bin/Debug/net5.0/ProjectTest.runtimeconfig.dev.json
+/home/neepe/Repositories/CsProjectos/ProjectTest/bin/Debug/net5.0/ProjectTest.dll
+/home/neepe/Repositories/CsProjectos/ProjectTest/bin/Debug/net5.0/ref/ProjectTest.dll
+/home/neepe/Repositories/CsProjectos/ProjectTest/bin/Debug/net5.0/ProjectTest.pdb
+/home/neepe/Repositories/CsProjectos/ProjectTest/obj/Debug/net5.0/ProjectTest.csproj.AssemblyReference.cache
+/home/neepe/Repositories/CsProjectos/ProjectTest/obj/Debug/net5.0/ProjectTest.GeneratedMSBuildEditorConfig.editorconfig
+/home/neepe/Repositories/CsProjectos/ProjectTest/obj/Debug/net5.0/ProjectTest.AssemblyInfoInputs.cache
+/home/neepe/Repositories/CsProjectos/ProjectTest/obj/Debug/net5.0/ProjectTest.AssemblyInfo.cs
+/home/neepe/Repositories/CsProjectos/ProjectTest/obj/Debug/net5.0/ProjectTest.csproj.CoreCompileInputs.cache
+/home/neepe/Repositories/CsProjectos/ProjectTest/obj/Debug/net5.0/ProjectTest.dll
+/home/neepe/Repositories/CsProjectos/ProjectTest/obj/Debug/net5.0/ref/ProjectTest.dll
+/home/neepe/Repositories/CsProjectos/ProjectTest/obj/Debug/net5.0/ProjectTest.pdb
+/home/neepe/Repositories/CsProjectos/ProjectTest/obj/Debug/net5.0/ProjectTest.genruntimeconfig.cache
